@@ -126,13 +126,13 @@ const renderNoteList = async (notes) => {
 
   let noteListItems = [];
 
-  // deleting notes 
-  app.delete("/api/notes/:id", (req, res) => {
-    const notes = JSON.parse(fs.readFileSync("./db.db/json"));
-    const delNote = notes.filter((rmvNote) => rmvNote.id !== req.params);
-    fs.writeFileSync("./db/db.json", JSON.stringgify(delNote));
-    res.json(delNote);
-  })
+  // // deleting notes 
+  // app.delete("/api/notes/:id", (req, res) => {
+  //   const notes = JSON.parse(fs.readFileSync("./db.db/json"));
+  //   const delNote = notes.filter((rmvNote) => rmvNote.id !== req.params);
+  //   fs.writeFileSync("./db/db.json", JSON.stringgify(delNote));
+  //   res.json(delNote);
+  // })
 
   // Returns HTML element with or without a delete button
   const createLi = (text, delBtn = true) => {
