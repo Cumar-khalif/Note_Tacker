@@ -39,12 +39,5 @@ a user can download this application and use it freely without the use of intern
 *GitHub: https://github.com/Cumar-khalif
 
 
-### Bonus: +10 Points
-
-* Application allows users to delete notes.
-
-
-
-
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
