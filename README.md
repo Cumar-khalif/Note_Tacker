@@ -1,4 +1,4 @@
-# 11 Express.js: Note Taker
+# Express.js: Note Taker
 
 ## User Story
 
@@ -33,11 +33,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 a user can download this application and use it freely without the use of internet.
 
 
-
-
 ## Contact
+
 *GitHub: https://github.com/Cumar-khalif
 
+Linkedln : https://www.linkedin.com/in/omar-sheikh-khalif-9352701b9/
 
-- - -
+---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
